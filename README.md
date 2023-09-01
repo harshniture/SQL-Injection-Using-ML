@@ -36,4 +36,3 @@ now in remote box change the directory to that folder and run the below command
 python3 app.py
 now you will see the web application running.
 
-for more information how to deploy flask app on AWS follow the link : https://www.youtube.com/watch?v=_rwNTY5Mn40
